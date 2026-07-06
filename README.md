@@ -39,6 +39,11 @@ This page provides a high-level overview of the business's financial performance
 
 This page enables executives to quickly assess overall business health and identify revenue growth patterns.
 
+<img width="1332" height="828" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/f92350f9-7fc1-42df-9a30-73f5f83f6f0b" />
+
+--- 
+
+
 ## 📦 Dashboard 2: Product Analysis
 ### Purpose
 
@@ -60,6 +65,9 @@ This page evaluates product categories, subcategories, pricing strategies, and r
 
 This analysis helps inventory managers and product teams maximize profitability through better product portfolio decisions.
 
+<img width="1318" height="817" alt="Product Dashboard" src="https://github.com/user-attachments/assets/b3ec2289-14bb-40db-980d-8ef946154adc" />
+
+*** 
 
 ## 👥 Dashboard 3: Customer Segmentation Analysis
 ### Purpose
@@ -82,4 +90,6 @@ This page provides insights into customer behavior, acquisition channels, custom
 ### Business Impact
 
 Understanding customer behavior enables targeted marketing campaigns and improved customer retention strategies.
+
+<img width="1135" height="733" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2585ac1a-d473-462e-85d0-6ce49fe09fbb" />
 
