@@ -16,6 +16,7 @@ Acquisition Channel Effectiveness
 Regional Performance
 Sales Trends
 
+#### Link - https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN/m-p/5237147#M3197
 
 
 ## 📊 Dashboard 1: Sales Performance Overview
