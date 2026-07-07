@@ -94,3 +94,16 @@ Understanding customer behavior enables targeted marketing campaigns and improve
 
 <img width="1135" height="733" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2585ac1a-d473-462e-85d0-6ce49fe09fbb" />
 
+*** 
+
+## 📌 Future Improvements
+
+- Sales Forecasting
+- Customer Lifetime Value Analysis
+- Inventory Dashboard
+- Mobile-Optimized Layout
+- AI-Powered Insights
+
+*** 
+
+⭐ If you found this project helpful, consider giving it a star!
