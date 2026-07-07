@@ -18,6 +18,16 @@ Sales Trends
 
 #### Link - https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN/m-p/5237147#M3197
 
+*** 
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop**
+- **Power Query**
+- **DAX**
+- **Excel/CSV Dataset**
+
+*** 
 
 ## 📊 Dashboard 1: Sales Performance Overview
 ### Purpose
